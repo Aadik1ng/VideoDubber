@@ -1,7 +1,7 @@
 # Overview
 This repository contains two Python scripts designed for super-resolution enhancement of video frames using the GFPGAN and CodeFormer models. The scripts provide functionality to apply super-resolution to bounding boxes within video frames, ensuring improved visual quality for facial regions.
 
-## Script 1: `super_resolution.py`
+## Script 1: `superres.py`
 This script contains the implementation for loading and applying the GFPGAN and CodeFormer models to enhance images.
 
 ### Dependencies
